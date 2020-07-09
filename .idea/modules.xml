@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HairApp.iml" filepath="$PROJECT_DIR$/HairApp.iml" group="HairApp" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="HairApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desktop-Hair.iml" filepath="$PROJECT_DIR$/.idea/modules/Desktop-Hair.iml" group="Hair" />
+      <module fileurl="file://$PROJECT_DIR$/Hair.iml" filepath="$PROJECT_DIR$/Hair.iml" />
     </modules>
   </component>
 </project>
