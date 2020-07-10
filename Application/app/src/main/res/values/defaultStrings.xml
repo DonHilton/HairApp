@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register">"sign up"</string>
+    <string name="login">"sign in"</string>
+    <string name="greetings">"welcome!"</string>
+
+</resources>
