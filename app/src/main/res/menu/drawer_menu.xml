@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn= "Navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_account_circle"
+            android:title="Profile"
+            />
+        <item android:id="@+id/nav_bookings"
+             android:title="Bookings"
+            />
+        <item android:id="@+id/nav_message"
+            android:icon="@drawable/ic_message"
+            android:title="Messages"
+            />
+        <item android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_settings_icon"
+            android:title="Settings"
+            />
+    </group>
+
+</menu>

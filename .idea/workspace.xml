@@ -6,19 +6,12 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82c2f096-4682-43eb-9071-475d6f0f3f48" name="Default Changelist" comment="Moved cron time project to hair App project">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_account_circle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_message.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Hair.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    <list default="true" id="82c2f096-4682-43eb-9071-475d6f0f3f48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_settings_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/drawer_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +38,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Gradle Kotlin DSL Build Script" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
       </list>
     </option>
   </component>
@@ -91,7 +86,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HairApp-app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="HairApp-app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="HairApp-app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -171,13 +166,33 @@
       <option name="presentableId" value="Default" />
       <updated>1594308214463</updated>
     </task>
+    <task id="LOCAL-00001" summary="message icon and account circle added">
+      <created>1594402715911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594402715911</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="message icon and account circle added" />
+    <option name="LAST_COMMIT_MESSAGE" value="message icon and account circle added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="382" y="242" key="#PSD" timestamp="1594397369724">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="382" y="242" key="#PSD/0.0.1536.864@0.0.1536.864" timestamp="1594397369724" />
+    <state x="698" y="177" key="AndroidCreateResourceDirectoryDialog" timestamp="1594403320571">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="698" y="177" key="AndroidCreateResourceDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1594403320571" />
+    <state x="695" y="46" key="CommitChangelistDialog2" timestamp="1594402713780">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="695" y="46" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594402713780" />
     <state x="933" y="159" key="FileChooserDialogImpl" timestamp="1594397019575">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
