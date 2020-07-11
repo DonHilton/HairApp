@@ -23,9 +23,9 @@ public class MainActivity extends AppCompatActivity {
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this,drawer,toolbar,
                 R.string.navivation_drawer_open, R.string.navivation_drawer_close);
         drawer.addDrawerListener(toggle);
-        toggle.syncState();
+        toggle.syncState();//helps rotate the hamburger
     }
-    //when we press the back buttom dont want to leave immediately so
+    //to close the navigation drawer when the back button is closed
     @Override
     public void onBackPressed(){
         if (drawer.isDrawerOpen(GravityCompat.START)){

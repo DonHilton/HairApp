@@ -7,13 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82c2f096-4682-43eb-9071-475d6f0f3f48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_calendar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hairapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/hairapp/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/drawer_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/drawer_menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,14 +197,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="698" y="177" key="AndroidCreateResourceDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1594403320571" />
-    <state x="695" y="46" key="CommitChangelistDialog2" timestamp="1594407029832">
+    <state x="695" y="46" key="CommitChangelistDialog2" timestamp="1594490044288">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="695" y="46" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594407029832" />
+    <state x="695" y="46" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594490044288" />
     <state x="933" y="159" key="FileChooserDialogImpl" timestamp="1594397019575">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="933" y="159" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1594397019575" />
+    <state x="554" y="184" width="814" height="531" key="Vcs.Push.Dialog.v2" timestamp="1594417583100">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="554" y="184" width="814" height="531" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1594417583100" />
+    <state x="848" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1594481511083">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="848" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1594481511083" />
   </component>
   <component name="masterDetails">
     <states>
