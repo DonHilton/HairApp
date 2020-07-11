@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TermsAndConditions">
+
+    <android.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#100F10"
+        android:elevation="4dp"
+        android:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="352dp"
+        android:layout_height="443dp"
+        android:text="Prohibited Uses  All users are to be respectful to one another on this platform and no disrespectful language shall be used to one another · The exchange of banking information shall not be done on this app. This app does not provide payment functionalities therefore all payments must be done in person and the company is not liable for any transactions or information shared on our platform. ·All payments are to be made after an appointment has been confirmed and done by the professional stylist Intellectual property ·The logo and images of this app and the [insert company name] are owned by the brand and cannot be used without the permission of said company for any marketing or other service(s). · The design (interfaces etc)of the app and the written code itself shall not be used for and by any other company without the written permission of members of the [insert company name]. · The app and its contents will be protected by a trademark, copyrights and patents law. Termination ·If you wish to terminate your account you are within your right to do so however in doing so  you are accepting the right for us to keep your information for up to 2 years after the termination of your account. "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.502" />
+
+    <CheckBox
+        android:id="@+id/agreecheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Agree to Terms and conditions"
+        tools:layout_editor_absoluteX="98dp"
+        tools:layout_editor_absoluteY="632dp" />
+
+    <CheckBox
+        android:id="@+id/disagreecheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Disagree with Terms and Conditions"
+        tools:layout_editor_absoluteX="98dp"
+        tools:layout_editor_absoluteY="674dp" />
+
+    <TextView
+        android:id="@+id/terms and conditions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="656dp"
+        android:text="Terms and Conditions"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.262"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -8,7 +8,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class CustomerLogin extends AppCompatActivity {
     private DrawerLayout drawer;
 
     @Override
