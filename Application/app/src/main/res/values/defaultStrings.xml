@@ -3,5 +3,18 @@
     <string name="register">"sign up"</string>
     <string name="login">"sign in"</string>
     <string name="greetings">"welcome!"</string>
+    <string name="IBO">"ibo"</string>
+    <string name="customer">"customer"</string>
+
+    <string name="name_first">"first name"</string>
+    <string name="name_last">"last name"</string>
+    <string name="name_email">"email address"</string>
+    <string name="name_company">"company name"</string>
+    <string name="password">"password"</string>
+    <string name="password_2">"confirm password"</string>
+    <string name="TC">"terms &amp; conditions"</string>
+    <string name="understood">"i understand what i'm signing up for"</string>
+
+
 
 </resources>

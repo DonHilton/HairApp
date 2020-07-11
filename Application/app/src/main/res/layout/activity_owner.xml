@@ -28,6 +28,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
+        android:layout_marginTop="28dp"
         android:layout_marginEnd="30dp"
         android:background="@drawable/button_blue"
         android:onClick="openReg"
@@ -37,8 +38,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="449dp" />
+        app:layout_constraintTop_toBottomOf="@+id/password_con"
+        tools:ignore="MissingConstraints" />
 
     <EditText
         android:id="@+id/name_first"
@@ -73,7 +74,24 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="216dp" />
+        tools:layout_editor_absoluteY="210dp" />
+
+    <EditText
+        android:id="@+id/name_company"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/edittext"
+        android:hint="@string/name_company"
+        android:inputType="textPersonName"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toTopOf="@+id/password"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
 
     <EditText
         android:id="@+id/email"
@@ -89,14 +107,13 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="70dp" />
+        tools:layout_editor_absoluteY="72dp" />
 
     <EditText
         android:id="@+id/password"
         android:layout_width="0dp"
         android:layout_height="40dp"
         android:layout_marginStart="30dp"
-        android:layout_marginTop="32dp"
         android:layout_marginEnd="30dp"
         android:background="@drawable/edittext"
         android:hint="@string/password"
@@ -105,15 +122,15 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/name_last"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="342dp" />
 
     <EditText
         android:id="@+id/password_con"
         android:layout_width="0dp"
         android:layout_height="40dp"
         android:layout_marginStart="30dp"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="30dp"
         android:background="@drawable/edittext"
         android:hint="@string/password_2"
@@ -130,8 +147,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/understood"
-        tools:layout_editor_absoluteX="32dp"
-        tools:layout_editor_absoluteY="524dp" />
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="544dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

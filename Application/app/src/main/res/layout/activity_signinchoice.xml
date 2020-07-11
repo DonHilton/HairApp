@@ -20,7 +20,7 @@
         android:textAlignment="center"
         android:textColor="@color/Gray"
         android:textSize="50sp"
-        android:text="@string/register"
+        android:text="@string/login"
         app:layout_constraintBottom_toTopOf="@+id/btnCustomer"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.375"
