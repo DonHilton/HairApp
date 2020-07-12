@@ -15,6 +15,19 @@
     <string name="TC">"terms &amp; conditions"</string>
     <string name="understood">"i understand what i'm signing up for"</string>
 
+    <string name="deleteButton">"delete account"</string>
+    <string name="changeButton">"change password"</string>
+    <string name="themeButton">"themes"</string>
+    <string name="enterUsername">"you are: user123"</string>
+    <string name="bgSwitch">"bg music"</string>
+    <string name="sfxSwitch">"sound fx"</string>
+    <string name="DOB">"date of birth (dd/mm/yyyy)"</string>
+    <string name="backButton">"back"</string>
+    <string name="gender">"gender"</string>
+    <string name="phone_number">"phone number"</string>
+    <string name="changeProfile">"change profile"</string>
+    <string name="save">"save"</string>
+    <string name="cancel">"cancel"</string>
 
 
 </resources>
