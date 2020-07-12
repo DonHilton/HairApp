@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TermsAndConditions"></activity>
+        <activity android:name=".customerSetUp"></activity>
+        <activity android:name=".myBookings" />
+        <activity android:name=".TermsAndConditions" />
         <activity android:name=".CustomerLogin">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

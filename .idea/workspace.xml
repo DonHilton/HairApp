@@ -6,13 +6,14 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82c2f096-4682-43eb-9071-475d6f0f3f48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/hairapp/TermsAndConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_terms_and_conditions.xml" afterDir="false" />
+    <list default="true" id="82c2f096-4682-43eb-9071-475d6f0f3f48" name="Default Changelist" comment="Terms and conditions page constraints fixed">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/hairapp/customerSetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/hairapp/myBookings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_customer_set_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_my_bookings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hairapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/hairapp/CustomerLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_terms_and_conditions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_terms_and_conditions.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +78,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.-1317980722">
+    <key name="android.template.-1931828931">
       <recent name="com.example.hairapp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Remia\AndroidStudioProjects\HairApp" />
+    </key>
+    <key name="android.template.-1317980722">
+      <recent name="com.example.hairapp" />
     </key>
   </component>
   <component name="RunManager">
@@ -193,14 +197,30 @@
       <option name="project" value="LOCAL" />
       <updated>1594490123596</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Terms and conditions page">
+      <created>1594501504192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594501504192</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Terms and conditions page constraints fixed">
+      <created>1594501642054</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594501642054</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="message icon and account circle added" />
     <MESSAGE value="Navigation header in progress" />
     <MESSAGE value="customer login in page done" />
-    <option name="LAST_COMMIT_MESSAGE" value="customer login in page done" />
+    <MESSAGE value="Terms and conditions page" />
+    <MESSAGE value="Terms and conditions page constraints fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terms and conditions page constraints fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="382" y="242" key="#PSD" timestamp="1594397369724">
@@ -211,22 +231,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="698" y="177" key="AndroidCreateResourceDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1594403320571" />
-    <state x="695" y="46" key="CommitChangelistDialog2" timestamp="1594501502094">
+    <state x="695" y="46" key="CommitChangelistDialog2" timestamp="1594501649056">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="695" y="46" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594501502094" />
+    <state x="695" y="46" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594501649056" />
     <state x="933" y="159" key="FileChooserDialogImpl" timestamp="1594397019575">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="933" y="159" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1594397019575" />
-    <state x="554" y="184" width="814" height="531" key="Vcs.Push.Dialog.v2" timestamp="1594490169145">
+    <state x="554" y="184" width="814" height="531" key="Vcs.Push.Dialog.v2" timestamp="1594501666862">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="554" y="184" width="814" height="531" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1594490169145" />
-    <state x="848" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1594481511083">
+    <state x="554" y="184" width="814" height="531" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1594501666862" />
+    <state x="848" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1594583576328">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="848" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1594481511083" />
+    <state x="848" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1594583576328" />
   </component>
   <component name="masterDetails">
     <states>
