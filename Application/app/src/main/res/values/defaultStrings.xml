@@ -29,5 +29,8 @@
     <string name="save">"save"</string>
     <string name="cancel">"cancel"</string>
 
+    <string name="date">"25. April"</string>
+    <string name="client">"Joe Bloggs"</string>
+    <string name="address">"Here"</string>
 
 </resources>
